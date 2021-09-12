@@ -6,7 +6,7 @@ Description:
    
 Libraries:
 
-    Make sure to install the following library
+   Make sure to install the following library
     
         1.numpy
         
@@ -22,3 +22,7 @@ Observations:
 
 
 ![obj rec](https://user-images.githubusercontent.com/59734392/132990962-26a2b04e-2076-4644-9772-7e23a7dbcc74.JPG)
+
+
+![obg](https://user-images.githubusercontent.com/59734392/132995721-0878641f-6796-4c6c-8566-9d1fee9a7d90.JPG)
+
