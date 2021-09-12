@@ -1,13 +1,19 @@
 # Object_Recognition
 
 Description: 
+
     Objection recognition is achieved with the help of MobileNetSSD_deploy.caffemodel and MobileNetSSD_deploy.prototxt model. It can recognize the following objects aeroplane,bicycle,bird,boat,bottle,bus,car,cat,chair,cow,dinning_table,dog,horse,motor_bike,person,potte_plant,sheep,sofa,train,tvmonitor.
    
 Libraries:
+
     Make sure to install the following library
+    
         1.numpy
+        
         2.imutils
+        
         3.time
+        
         3.cv2
         
 Observations:
